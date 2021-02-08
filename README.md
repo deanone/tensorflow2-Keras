@@ -1,4 +1,4 @@
-This is a repo containing Jupyter notebooks solving trivial tasks from various domains (e.g. computer vision, speech, natural language processing) using deep learning models implemented using the Keras submodule of Tensorflow 2.
+This is a repo containing Jupyter notebooks solving trivial tasks from various domains (e.g. computer vision, speech recognition, natural language processing) with deep learning models implemented using the Keras submodule of Tensorflow 2.
 
 https://www.tensorflow.org/api_docs/python/tf/keras
 
