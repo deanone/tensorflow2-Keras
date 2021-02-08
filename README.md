@@ -2,4 +2,5 @@ This is a repo containing Jupyter notebooks solving trivial tasks from various d
 
 https://www.tensorflow.org/api_docs/python/tf/keras
 
-1. mnist_dnn.ipynb: Simple DNN model for solving MNIST image classification task.
+1. mnist_dnn.ipynb: Simple DNN (fully-connected deep neural network) model for solving MNIST image classification task.
+2. mnist_cnn.ipynb: Simple CNN (convolutional neural network) model for solving MNIST image classification task.
